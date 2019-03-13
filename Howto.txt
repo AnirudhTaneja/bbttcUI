@@ -1,0 +1,4 @@
+navigate to ReactNodeNew 
+npm start
+Localhost:4007 on browser should give you wenlcome to express
+Localhost:4007/users should get you all values from DB in Json format on Browser window
